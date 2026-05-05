@@ -4,7 +4,7 @@
 
 **Full Stack Developer · Dhaka, Bangladesh**
 
-*I explore different technologies out of curiosity — and turn that curiosity into tools that solve real problems.*
+*I explore different technologies out of curiosity and turn that curiosity into tools that solve real problems.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-hasan-5447382b6/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedihasanpolashat@gmail.com)
@@ -27,7 +27,7 @@ const mehedi = {
 };
 ```
 
-I don't just learn technologies — I build things with them. Currently exploring how productivity tools can be redesigned from the ground up for students.
+I don't just learn technologies, I build things with them. Currently exploring how productivity tools can be redesigned from the ground up for students.
 
 ---
 
