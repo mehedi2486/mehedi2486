@@ -4,7 +4,7 @@
 
 **Full Stack Developer · Dhaka, Bangladesh**
 
-*I explore different technologies out of curiosity and turn that curiosity into tools that solve real problems.*
+*I explore different technologies out of curiosity — and turn that curiosity into tools that solve real problems.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-hasan-5447382b6/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedihasanpolashat@gmail.com)
@@ -27,7 +27,7 @@ const mehedi = {
 };
 ```
 
-I don't just learn technologies, I build things with them. Currently exploring how productivity tools can be redesigned from the ground up for students.
+I don't just learn technologies — I build things with them. Currently exploring how productivity tools can be redesigned from the ground up for students.
 
 ---
 
@@ -68,14 +68,14 @@ I don't just learn technologies, I build things with them. Currently exploring h
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mehedi2486&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi2486&layout=compact&theme=github_dark&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mehedi2486&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi2486&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehedi2486&theme=github-dark-blue&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=mehedi2486&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
